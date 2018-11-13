@@ -2,6 +2,13 @@ body{
   background: #ECE6CD;
 }
 
+#logo{
+  width: 70px;
+  height: 70px;
+}
+
+
+
 #formu{
   border: groove;
   padding: 20px;
@@ -27,7 +34,8 @@ body{
 }
 
 #carru{
-	height: 480px;
+	height: 400px;
+  width: 400px;
 	border-radius: 2%;
 }
 
@@ -41,7 +49,8 @@ body{
 }
 
 #titulo{
-	padding-top: 40px;
+  border: groove;
+  background-image: url("/home/tavo/cursos3/cursoweb/proyectosweb/bootsy/webp2/img/backg.jpg")
 }
 
 #api{
